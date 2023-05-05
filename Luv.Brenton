@@ -31,7 +31,6 @@ $ cat popular.txt | wc -l 25322 
 git clone https://github.com/googlemaps 
 git clone https://github.com/wazeHQ 
 git clone https://github.com/mayankmetha/Rucky 
-git clone https://github.com/goldsmith/Wikipedia
 sudo snap install vlc 
 sudo snap install Spotify  
 git clone https://github.com/ooni/probe 
