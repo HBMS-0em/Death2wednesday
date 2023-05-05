@@ -53,19 +53,20 @@ git clone https://github.com/limitmhw/Road-Rash 
 git clone https://github.com/maettig/starship-sorades-13k 
 sudo snap install boa 
 git clone https://github.com/ValyriaTear/ValyriaTear 
-git clone https://github.com/mitallast/diablo-js https://github.com/goldsmith/Wikipediaablo-js 
+git clone https://github.com/mitallast/diablo-js 
+https://github.com/goldsmith/Wikipedia
 sudo apt-get install gparted 
 git clone https://github.com/goldsmith/Wikipedia
 git clone https://github.com/yasirerkam/AdobeAcrobatJavaScripts 
 git clone https://github.com/termux/termux-app 
 sudo snap install snapd 
 sudo install snap store 
- sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0 
- sudo cryptsetup open /dev/sda0 <DeathToWednesday0> 
- sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda1 
- sudo cryptsetup open /dev/sda1 <Skull&bonesAreFags1> 
- sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda2 
- sudo cryptsetup open /dev/sdxy <BrentonLovesYou2> 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda0 
+sudo cryptsetup open /dev/sda0 <DeathToWednesday0> 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda1 
+sudo cryptsetup open /dev/sda1 <Skull&bonesAreFags1> 
+sudo cryptsetup --hash sha512 --verbose --cipher aes-xts-plain --key-size 512 luksFormat /dev/sda2 
+sudo cryptsetup open /dev/sdxy <BrentonLovesYou2> 
 
 Here is a read me explaining somethings;
 
