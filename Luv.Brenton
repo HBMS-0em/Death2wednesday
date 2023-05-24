@@ -34,10 +34,12 @@ git clone https://github.com/mayankmetha/Rucky 
 sudo snap install vlc 
 sudo snap install Spotify  
 git clone https://github.com/ooni/probe 
-git clone https://github.com/hrtywhy/Hanoman 
-sudo apt-get update 
-DEBIAN_FRONTEND=noninteractive apt-get install freedombox 
-git clone https://github.com/ValveSoftware/steam-for-linux 
+git clone https://github.com/hrtywhy/Hanoman
+git clone https://github.com/DarkFlippers/unleashed-firmware
+git clone https://github.com/wiglenet/wigle-wifi-wardriving
+sudo apt-get update 
+DEBIAN_FRONTEND=noninteractive apt-get install freedombox
+git clone https://github.com/ValveSoftware/steam-for-linux 
 git clone https://github.com/videogamepreservation/dukenukem3d 
 sudo snap install gimp 
 sudo snap install klettres 
